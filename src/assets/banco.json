@@ -1,0 +1,24 @@
+[
+    {
+    "numero":"M1A",
+    "titulo":"LPOO",
+    "alunos":[
+            {"codigo":"1","nome":"José da Silva"},
+            {"codigo":"2","nome":"João de Souza"},
+            {"codigo":"3","nome":"Ana Maria"},
+            {"codigo":"4","nome":"Beatriz Alencar"},
+            {"codigo":"5","nome":"Camila Cristina"}
+         ]
+     },
+     {
+    "numero":"M2B",
+    "titulo":"AP-2",
+    "alunos":[
+            {"codigo":"6","nome":"Pedro"},
+            {"codigo":"7","nome":"Paulo"},
+            {"codigo":"8","nome":"Maria"},
+            {"codigo":"9","nome":"Alencar"},
+            {"codigo":"10","nome":"Cristina "}
+         ]
+     }
+ ]
